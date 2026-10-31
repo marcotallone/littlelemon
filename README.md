@@ -65,7 +65,7 @@ The application handles menu management and table bookings, featuring token-base
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/marcotallone/littlelemon
+git clone https://github.com/marcotallone/littlelemon.git
 cd littlelemon
 
 # 2. Create and activate a virtual environment
