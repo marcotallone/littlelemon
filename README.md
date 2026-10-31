@@ -91,7 +91,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-The application will be available at **http://127.0.0.1:8000**.
+The application will be available at <http://127.0.0.1:8000/restaurant/>. See the [API Quick Reference](#api-quick-reference) for available endpoints.
 
 ### Database Configuration
 
